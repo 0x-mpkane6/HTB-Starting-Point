@@ -1,7 +1,6 @@
 # Writeup HTB Starting Point
 **Môn**: An toàn mạng - NT140.Q21.ANTN<br>
 **Lớp**: ATTN2024<br>
-**GVHD**: ThS. Nghi Hoàng Khoa<br>
 **Sinh viên thực hiện**: Nguyễn Minh Phúc Khang - 24520758<br>
 
 ---
